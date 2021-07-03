@@ -32,3 +32,9 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.middle-bannar{
+    margin-top: 140px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
